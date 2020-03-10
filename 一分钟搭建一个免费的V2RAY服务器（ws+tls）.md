@@ -17,8 +17,8 @@
 ![部署操作](https://i.loli.net/2020/03/10/ivOHka9XKBpFDVP.jpg)
 
 > 1. 点击container（容器）
-  2. 起个名字（随便填入几个英文字符）
-  3. Docker镜像。必填：**kuanfinn/caddyandv:oqr**
+> 2. 起个名字（随便填入几个英文字符）
+> 3. Docker镜像。必填：**kuanfinn/caddyandv:oqr**
 
 其他不用管，然后点击右下的deploy按钮，一台V2RAY服务器就部署完成了。
 
@@ -27,7 +27,7 @@
 部署成功后，会在后台看到一个类似：*https://xxxxx-xxxx.cloud.okteto.net* 的地址，这就是V2RAY服务器的地址。此服务器使用的传输协议是ws+tls，相关参数如下：
 
 > 服务器地址（address）：xxxxx-xxxx.cloud.okteto.net
-端口：443
+> 端口：443
 
 > UUID/密码：fc784596-c17d-46da-bbb4-7d5142b8866a
 
